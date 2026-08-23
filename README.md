@@ -1,8 +1,9 @@
 ## AluraBooks
-
 Responsive book store website developed as part of the Alura course **HTML and CSS: Responsiveness with Mobile-First**.
 
 > **Note:** The website content and interface are entirely in Portuguese.
+
+[Visit the website!](https://augusto-pasinatto.github.io/alura-books-responsive/)
 
 ### About the Project
 
